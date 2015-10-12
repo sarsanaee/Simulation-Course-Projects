@@ -1,0 +1,13 @@
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\bin\Debug\ableAndBakerProblem.exe.config
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\bin\Debug\ableAndBakerProblem.exe
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\bin\Debug\ableAndBakerProblem.pdb
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\obj\Debug\ableAndBakerProblem.csprojResolveAssemblyReference.cache
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\obj\Debug\ableAndBakerProblem.Properties.Resources.resources
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\obj\Debug\ableAndBakerProblem.csproj.GenerateResource.Cache
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\obj\Debug\ableAndBakerProblem.exe
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\obj\Debug\ableAndBakerProblem.pdb
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\bin\Debug\AForge.Math.dll
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\bin\Debug\AForge.dll
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\bin\Debug\AForge.Math.xml
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\bin\Debug\AForge.xml
+D:\simulation\FriestProject\ableAndBakerProblem\ableAndBakerProblem\obj\Debug\ableAndBakerProblem.MainForm.resources
