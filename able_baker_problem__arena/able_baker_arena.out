@@ -1,0 +1,74 @@
+
+                                      ARENA Simulation Results
+                                    Masoud - License: 7328734345
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :10/17/2015
+Analyst: Rockwell Automation                                         Model revision date:10/17/2015
+
+Replication ended at time      : 201.00422 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Customer.VATime                                 --         --         --         --          0
+Customer.NVATime                                --         --         --         --          0
+Customer.WaitTime                               --         --         --         --          0
+Customer.TranTime                               --         --         --         --          0
+Customer.OtherTime                              --         --         --         --          0
+Customer.TotalTime                              --         --         --         --          0
+Entity 1.VATime                             2.1993     (Insuf)    .00000     9.0042        100    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        100    
+Entity 1.WaitTime                           .03768     (Insuf)    .00000     1.3163        100    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        100    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        100    
+Entity 1.TotalTime                          2.2369     (Insuf)    .00000     9.0042        100    
+Able.Queue.WaitingTime                      .00000     (Insuf)    .00000     .00000         48    
+Baker.Queue.WaitingTime                     .07246     (Insuf)    .00000     1.3163         52    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                .00000     (Insuf)    .00000     .00000     .00000    
+Entity 1.WIP                                1.1129     (Insuf)    .00000     3.0000     .00000    
+baker service.NumberBusy                    .33962     (Insuf)    .00000     1.0000     .00000    
+baker service.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+baker service.Utilization                   .33962     (Insuf)    .00000     1.0000     .00000    
+able service.NumberBusy                     .75454     (Insuf)    .00000     1.0000     .00000    
+able service.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+able service.Utilization                    .75454     (Insuf)    .00000     1.0000     .00000    
+Able.Queue.NumberInQueue                    .00000     (Insuf)    .00000     .00000     .00000    
+Baker.Queue.NumberInQueue                   .01875     (Insuf)    .00000     1.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Able Customers count                             48  Infinite
+Baker Customers count                            52  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           .00000    
+Customer.NumberOut                          .00000    
+Entity 1.NumberIn                           100.00    
+Entity 1.NumberOut                          100.00    
+baker service.NumberSeized                  52.000    
+baker service.ScheduledUtilization          .33962    
+able service.NumberSeized                   48.000    
+able service.ScheduledUtilization           .75454    
+System.NumberOut                            100.00    
+
+
+Simulation run time: 0.03 minutes.
+Simulation run complete.

@@ -1,0 +1,55 @@
+
+                                      ARENA Simulation Results
+                                    Masoud - License: 7328734345
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date :10/17/2015
+Analyst: Rockwell Automation                                         Model revision date:10/17/2015
+
+Replication ended at time      : 119.58607 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             2.1476     (Insuf)    .00000     4.8413        100    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        100    
+Entity 1.WaitTime                           2.8885     (Insuf)    .00000     10.478        100    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        100    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        100    
+Entity 1.TotalTime                          5.0362     (Insuf)    .11722     11.687        100    
+Server.Queue.WaitingTime                    2.8885     (Insuf)    .00000     10.478        100    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                4.2113     (Insuf)    .00000     12.000     .00000    
+able.NumberBusy                             .91151     (Insuf)    .00000     1.0000     .00000    
+able.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+able.Utilization                            .91151     (Insuf)    .00000     1.0000     .00000    
+baker.NumberBusy                            .88443     (Insuf)    .00000     1.0000     .00000    
+baker.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+baker.Utilization                           .88443     (Insuf)    .00000     1.0000     .00000    
+Server.Queue.NumberInQueue                  2.4154     (Insuf)    .00000     10.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           100.00    
+Entity 1.NumberOut                          100.00    
+able.NumberSeized                           53.000    
+able.ScheduledUtilization                   .91151    
+baker.NumberSeized                          47.000    
+baker.ScheduledUtilization                  .88443    
+System.NumberOut                            100.00    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.

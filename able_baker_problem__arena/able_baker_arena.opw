@@ -1,0 +1,16 @@
+[RESOURCES]
+baker service
+able service
+[VARIABLES]
+Able Service Time
+Baker.NumberIn
+Baker.NumberOut
+Baker Customers
+Able.NumberOut
+Dispose 1.NumberOut
+Able Customers
+Create 1.NumberOut
+Able Finish Time
+Baker Finish Time
+Baker Service TIme
+Able.NumberIn

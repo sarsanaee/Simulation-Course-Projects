@@ -1,0 +1,8 @@
+[RESOURCES]
+able
+baker
+[VARIABLES]
+Server.NumberOut
+Dispose 1.NumberOut
+Server.NumberIn
+Create 1.NumberOut
